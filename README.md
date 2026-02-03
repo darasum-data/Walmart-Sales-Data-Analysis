@@ -150,7 +150,7 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 **Dara Sum**
-Data Analyst | SQL & Power BI
+Data Analyst | SQL | Python | Power BI | Tableau | statistics 
 <a href="https://www.linkedin.com/in/darasum-data" target="_blank" 
    style="display: inline-block; padding: 10px 20px; background-color: #0A66C2; 
           color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
