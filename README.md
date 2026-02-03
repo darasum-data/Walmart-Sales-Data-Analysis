@@ -1,6 +1,6 @@
 # Walmart Data Analysis: End-to-End SQL + Python Project P-9
 
-![Project Pipeline](docs/Walmart Project.png)
+![Project Pipeline](docs/walmart_pipline.png)
 
 ## 📌 Project Overview
 
