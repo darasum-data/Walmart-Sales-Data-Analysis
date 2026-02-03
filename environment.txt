@@ -1,0 +1,14 @@
+panda
+pymysql
+sqlalchemy
+psycopg2
+
+# Install the packages con
+# These three packages are database-related libraries. As a data analyst, 
+# you’ll use them mainly to connect Python to databases, 
+# run SQL queries, and load data into pandas.
+
+conda install -c conda-forge pymysql sqlalchemy psycopg2
+
+# install pandas libraries
+conda install pandas
