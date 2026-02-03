@@ -95,6 +95,57 @@ Based on the PDF content and SQL queries you provided, here is the updated **SQL
    ```bash
    git clone <repo-url>
 
+   ```
+2. Install Python libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Set up your Kaggle API, download the data, and follow the steps to load and analyze.
+---
+
+## Project Structure
+
+```plaintext
+├── .git/               # Git version control metadata
+├── .vscode/            # VS Code editor settings and configurations
+├── data/               # Raw and processed datasets
+├── docs/               # Project documentation and assets
+├── notebooks/          # Jupyter notebooks for analysis and experimentation
+├── scripts/            # Python scripts and utility code
+├── environment.txt     # List of dependencies/packages required to run the project
+├── LICENSE             # License information
+└── README.md           # Project overview and instructions
+```
+---
+
+## Results and Insights
+
+This section will include your analysis findings:
+- **Sales Insights**: Key categories, branches with highest sales, and preferred payment methods.
+- **Profitability**: Insights into the most profitable product categories and locations.
+- **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
+
+## Future Enhancements
+
+Possible extensions to this project:
+- Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
+- Additional data sources to enhance analysis depth.
+- Automation of the data pipeline for real-time data ingestion and analysis.
+
+---
+
+## License
+
+This project is licensed under the MIT License. 
+
+---
+
+## Acknowledgments
+
+- **Data Source**: Kaggle’s Walmart Sales Dataset
+- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
+
+---
 
 ## 📬 Contact
 
