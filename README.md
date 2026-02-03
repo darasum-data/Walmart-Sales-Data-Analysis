@@ -156,10 +156,3 @@ Data Analyst | SQL & Power BI
           color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
   Connect on LinkedIn
 </a>
-
-
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> c9ac9c4 (Initial commit)
