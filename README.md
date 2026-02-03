@@ -56,11 +56,16 @@ The project is ideal for data analysts looking to develop skills in data manipul
 
 ### 9. SQL Analysis: Complex Queries and Business Problem Solving
    - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
-     - **Revenue trends** across branches and categories.
-     - Identifying **best-selling product categories**.
-     - Sales performance by **time, city, and payment method**.
-     - Analyzing **peak sales periods** and customer buying patterns.
-     - **Profit margin analysis** by branch and category.
+Based on the PDF content and SQL queries you provided, here is the updated **SQL Analysis** section. This is tailored to specific business problems involving window functions, date extraction, and revenue calculations.
+1.  **Analyze Payment Methods and Sales:** Determine the number of transactions and total quantity sold for each payment method to understand customer preferences.
+2.  **Identify the Highest-Rated Category in Each Branch:** Use window functions to find which product category has the highest average rating within specific store branches.
+3.  **Determine the Busiest Day for Each Branch:** Analyze transaction timestamps to identify which day of the week generates the highest volume for each branch.
+4.  **Calculate Total Quantity Sold by Payment Method:** Track sales volume specifically by payment type.
+5.  **Analyze Category Ratings by City:** Calculate the average, minimum, and maximum customer ratings for product categories, grouped by city.
+6.  **Calculate Total Profit by Category:** Compute total profit using the formula `(unit_price * quantity * profit_margin)` and rank categories from most to least profitable.
+7.  **Determine the Most Common Payment Method per Branch:** Identify the preferred payment method for each branch using ranking functions.
+8.  **Analyze Sales Shifts Throughout the Day:** Categorize sales into "Morning," "Afternoon," and "Evening" shifts using `CASE` statements to aid in staff management.
+9.  **Identify Branches with Highest Revenue Decline Year-Over-Year:** Compare 2022 vs. 2023 revenue to identify branches experiencing the most significant decrease ratio.
    - **Documentation**: Keep clear notes of each query's objective, approach, and results.
 
 ### 10. Project Publishing and Documentation
