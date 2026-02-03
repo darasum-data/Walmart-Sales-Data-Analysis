@@ -56,7 +56,7 @@ The project is ideal for data analysts looking to develop skills in data manipul
 
 ### 9. SQL Analysis: Complex Queries and Business Problem Solving
    - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
-Based on the PDF content and SQL queries you provided, here is the updated **SQL Analysis** section. This is tailored to specific business problems involving window functions, date extraction, and revenue calculations.
+Based on the [view Business Problems](docs/Walmart_Business_Problems.pdf) PDF content and SQL queries you provided, here is the updated **SQL Analysis** section. This is tailored to specific business problems involving window functions, date extraction, and revenue calculations.
    - **Analyze Payment Methods and Sales:** Determine the number of transactions and total quantity sold for each payment method to understand customer preferences.
    - **Identify the Highest-Rated Category in Each Branch:** Use window functions to find which product category has the highest average rating within specific store branches.
    - **Determine the Busiest Day for Each Branch:** Analyze transaction timestamps to identify which day of the week generates the highest volume for each branch.
